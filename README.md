@@ -1,1 +1,1 @@
-# Motso1
+Welcome to coding summer school # Motso1
